@@ -3,3 +3,8 @@ livros
 brinquedos e jogos
 joias 
 couro
+roupas
+sapatos
+brincos
+cordoes
+
