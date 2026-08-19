@@ -3,3 +3,5 @@ livros
 brinquedos e jogos
 roupas
 sapatos
+brincos
+cordoes
